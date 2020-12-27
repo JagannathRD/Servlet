@@ -1,0 +1,27 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  
+  <display-name>Archetype Created Web Application</display-name>
+  <welcome-file-list>
+  <welcome-file>product.jsp</welcome-file>
+  
+  </welcome-file-list>
+  
+  <context-param>
+  <param-name>New</param-name>
+  <param-value>50% off new year offer</param-value>
+  </context-param>
+  
+  <context-param>
+  <param-name>Cloths</param-name>
+  <param-value>70% off new year offer</param-value>
+  </context-param>
+  
+  <context-param>
+  <param-name>Books</param-name>
+  <param-value>50% off new year offer</param-value>
+  </context-param>
+</web-app>
